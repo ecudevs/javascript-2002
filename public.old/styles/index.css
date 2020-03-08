@@ -1,0 +1,27 @@
+h1 {
+	color: blue;
+}
+
+#parrafo1 {
+	font-size: 2rem;
+}
+
+#ingredientes {
+	background: beige;
+}
+
+.center {
+	text-align: center;
+}
+
+p.center {
+	color: red;
+}
+
+#ingredientes ol li#center {
+	color: orange;
+}
+
+/* * {
+            font-size: 3rem;
+        } */
